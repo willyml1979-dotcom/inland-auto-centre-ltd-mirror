@@ -3,7 +3,7 @@
 > Inland Auto Centre Ltd. is a  dealership in Dawson Creek. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/): 60 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/): 65 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
