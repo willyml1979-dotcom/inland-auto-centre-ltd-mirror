@@ -1,6 +1,6 @@
 {
   "dealership": "Inland Auto Centre Ltd",
-  "generated_at": "2026-09-26T10:13:09",
+  "generated_at": "2026-10-08T14:38:31",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "1B3HB48A39D191728",
       "stock": "PO2989A",
       "color": "Brilliant Black",
+      "trim": "CALIBER SXT",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/929157481a95.html",
       "source_url": "https://inlandautocentre.com/Inventory/2009-DODGE-CALIBER-1B3HB48A39D191728",
       "dealer_url": "https://inlandautocentre.com/Inventory/2009-DODGE-CALIBER-1B3HB48A39D191728?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -17,14 +18,17 @@
       "odometer_km": 145600,
       "year": 2009,
       "make": "DODGE",
-      "model": "CALIBER CALIBER SXT",
-      "condition": "used"
+      "model": "Caliber",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2009 DODGE CALIBER CALIBER SXT",
       "vin": "1B3HB48A39D191728",
       "stock": "PO2989A",
       "color": "Brilliant Black",
+      "trim": "CALIBER SXT",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/929157481a95.html",
       "source_url": "https://inlandautocentre.com/Inventory/2009-DODGE-CALIBER-1B3HB48A39D191728",
       "dealer_url": "https://inlandautocentre.com/Inventory/2009-DODGE-CALIBER-1B3HB48A39D191728?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -32,13 +36,16 @@
       "odometer_km": 145600,
       "year": 2009,
       "make": "DODGE",
-      "model": "CALIBER CALIBER SXT",
-      "condition": "new"
+      "model": "Caliber",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2014 GMC YUKON SLE",
       "vin": "1GKS2AE02ER119483",
       "stock": "PO2921B",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/964a04ba5a2a.html",
       "source_url": "https://inlandautocentre.com/Inventory/2014-GMC-YUKON-1GKS2AE02ER119483",
       "dealer_url": "https://inlandautocentre.com/Inventory/2014-GMC-YUKON-1GKS2AE02ER119483?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -46,13 +53,16 @@
       "odometer_km": 232683,
       "year": 2014,
       "make": "GMC",
-      "model": "YUKON SLE",
-      "condition": "used"
+      "model": "Yukon",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2014 GMC YUKON SLE",
       "vin": "1GKS2AE02ER119483",
       "stock": "PO2921B",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/964a04ba5a2a.html",
       "source_url": "https://inlandautocentre.com/Inventory/2014-GMC-YUKON-1GKS2AE02ER119483",
       "dealer_url": "https://inlandautocentre.com/Inventory/2014-GMC-YUKON-1GKS2AE02ER119483?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -60,8 +70,10 @@
       "odometer_km": 232683,
       "year": 2014,
       "make": "GMC",
-      "model": "YUKON SLE",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2015 CHRYSLER 200 LX",
@@ -76,7 +88,9 @@
       "year": 2015,
       "make": "CHRYSLER",
       "model": "200 LX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2015 CHRYSLER 200 LX",
@@ -91,13 +105,16 @@
       "year": 2015,
       "make": "CHRYSLER",
       "model": "200 LX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 REBEL",
       "vin": "1C6SRFLT3LN145409",
       "stock": "26-315B",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "REBEL",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/3d383fddad6b.html",
       "source_url": "https://inlandautocentre.com/Inventory/2020-RAM-1500-1C6SRFLT3LN145409",
       "dealer_url": "https://inlandautocentre.com/Inventory/2020-RAM-1500-1C6SRFLT3LN145409?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -105,14 +122,17 @@
       "odometer_km": 131987,
       "year": 2020,
       "make": "RAM",
-      "model": "1500 REBEL",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 REBEL",
       "vin": "1C6SRFLT3LN145409",
       "stock": "26-315B",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "REBEL",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/3d383fddad6b.html",
       "source_url": "https://inlandautocentre.com/Inventory/2020-RAM-1500-1C6SRFLT3LN145409",
       "dealer_url": "https://inlandautocentre.com/Inventory/2020-RAM-1500-1C6SRFLT3LN145409?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -120,14 +140,17 @@
       "odometer_km": 131987,
       "year": 2020,
       "make": "RAM",
-      "model": "1500 REBEL",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2021 HYUNDAI KONA PREFERRED",
       "vin": "KM8K2CAA5MU656412",
       "stock": "26-292A",
       "color": "STING GREY",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/719daf8e1529.html",
       "source_url": "https://inlandautocentre.com/Inventory/2021-HYUNDAI-KONA-KM8K2CAA5MU656412",
       "dealer_url": "https://inlandautocentre.com/Inventory/2021-HYUNDAI-KONA-KM8K2CAA5MU656412?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -135,14 +158,17 @@
       "odometer_km": 103169,
       "year": 2021,
       "make": "HYUNDAI",
-      "model": "KONA PREFERRED",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2021 HYUNDAI KONA PREFERRED",
       "vin": "KM8K2CAA5MU656412",
       "stock": "26-292A",
       "color": "STING GREY",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/719daf8e1529.html",
       "source_url": "https://inlandautocentre.com/Inventory/2021-HYUNDAI-KONA-KM8K2CAA5MU656412",
       "dealer_url": "https://inlandautocentre.com/Inventory/2021-HYUNDAI-KONA-KM8K2CAA5MU656412?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -150,14 +176,17 @@
       "odometer_km": 103169,
       "year": 2021,
       "make": "HYUNDAI",
-      "model": "KONA PREFERRED",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 BIG HORN",
       "vin": "1C6SRFFT5MN568084",
       "stock": "26-332A",
       "color": "Delmonico Red Pearl Coat",
+      "trim": "BIG HORN",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/d1686f185a05.html",
       "source_url": "https://inlandautocentre.com/Inventory/2021-RAM-1500-1C6SRFFT5MN568084",
       "dealer_url": "https://inlandautocentre.com/Inventory/2021-RAM-1500-1C6SRFFT5MN568084?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -165,14 +194,17 @@
       "odometer_km": 32161,
       "year": 2021,
       "make": "RAM",
-      "model": "1500 BIG HORN",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 BIG HORN",
       "vin": "1C6SRFFT5MN568084",
       "stock": "26-332A",
       "color": "Delmonico Red Pearl Coat",
+      "trim": "BIG HORN",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/d1686f185a05.html",
       "source_url": "https://inlandautocentre.com/Inventory/2021-RAM-1500-1C6SRFFT5MN568084",
       "dealer_url": "https://inlandautocentre.com/Inventory/2021-RAM-1500-1C6SRFFT5MN568084?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -180,14 +212,17 @@
       "odometer_km": 32161,
       "year": 2021,
       "make": "RAM",
-      "model": "1500 BIG HORN",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2022 KIA SELTOS LX",
       "vin": "KNDEPCAA9N7297214",
       "stock": "26-274A",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/06e70979f5e5.html",
       "source_url": "https://inlandautocentre.com/Inventory/2022-KIA-SELTOS-KNDEPCAA9N7297214",
       "dealer_url": "https://inlandautocentre.com/Inventory/2022-KIA-SELTOS-KNDEPCAA9N7297214?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -195,14 +230,17 @@
       "odometer_km": 51932,
       "year": 2022,
       "make": "KIA",
-      "model": "SELTOS LX",
-      "condition": "used"
+      "model": "Seltos",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2022 KIA SELTOS LX",
       "vin": "KNDEPCAA9N7297214",
       "stock": "26-274A",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/06e70979f5e5.html",
       "source_url": "https://inlandautocentre.com/Inventory/2022-KIA-SELTOS-KNDEPCAA9N7297214",
       "dealer_url": "https://inlandautocentre.com/Inventory/2022-KIA-SELTOS-KNDEPCAA9N7297214?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -210,14 +248,17 @@
       "odometer_km": 51932,
       "year": 2022,
       "make": "KIA",
-      "model": "SELTOS LX",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 CLASSIC EXPRESS",
       "vin": "1C6RR7KT6NS152803",
       "stock": "26-371A",
       "color": "Granite Crystal Met. Clear Coa",
+      "trim": "EXPRESS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/310ec384269c.html",
       "source_url": "https://inlandautocentre.com/Inventory/2022-RAM-1500 CLASSIC-1C6RR7KT6NS152803",
       "dealer_url": "https://inlandautocentre.com/Inventory/2022-RAM-1500 CLASSIC-1C6RR7KT6NS152803?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -225,14 +266,17 @@
       "odometer_km": 72813,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 CLASSIC EXPRESS",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 CLASSIC EXPRESS",
       "vin": "1C6RR7KT6NS152803",
       "stock": "26-371A",
       "color": "Granite Crystal Met. Clear Coa",
+      "trim": "EXPRESS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/310ec384269c.html",
       "source_url": "https://inlandautocentre.com/Inventory/2022-RAM-1500 CLASSIC-1C6RR7KT6NS152803",
       "dealer_url": "https://inlandautocentre.com/Inventory/2022-RAM-1500 CLASSIC-1C6RR7KT6NS152803?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +284,17 @@
       "odometer_km": 72813,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 CLASSIC EXPRESS",
-      "condition": "new"
+      "model": "1500 Classic",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 DODGE DURANGO R/T PLUS",
       "vin": "1C4SDJCT8PC601447",
       "stock": "PO2965",
       "color": "Bright White ",
+      "trim": "R/T PLUS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/fe42ba255822.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-DODGE-DURANGO-1C4SDJCT8PC601447",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-DODGE-DURANGO-1C4SDJCT8PC601447?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -255,14 +302,17 @@
       "odometer_km": 38473,
       "year": 2023,
       "make": "DODGE",
-      "model": "DURANGO R/T PLUS",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 DODGE DURANGO R/T PLUS",
       "vin": "1C4SDJCT8PC601447",
       "stock": "PO2965",
       "color": "Bright White ",
+      "trim": "R/T PLUS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/fe42ba255822.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-DODGE-DURANGO-1C4SDJCT8PC601447",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-DODGE-DURANGO-1C4SDJCT8PC601447?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -270,14 +320,17 @@
       "odometer_km": 38473,
       "year": 2023,
       "make": "DODGE",
-      "model": "DURANGO R/T PLUS",
-      "condition": "new"
+      "model": "Durango",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 HYUNDAI TUCSON GL",
       "vin": "KM8JCCAE3PU174232",
       "stock": "26-282A",
       "color": "Titainium",
+      "trim": "GL",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/70480e8ac41f.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-HYUNDAI-TUCSON-KM8JCCAE3PU174232",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-HYUNDAI-TUCSON-KM8JCCAE3PU174232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -285,14 +338,17 @@
       "odometer_km": 38811,
       "year": 2023,
       "make": "HYUNDAI",
-      "model": "TUCSON GL",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 HYUNDAI TUCSON GL",
       "vin": "KM8JCCAE3PU174232",
       "stock": "26-282A",
       "color": "Titainium",
+      "trim": "GL",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/70480e8ac41f.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-HYUNDAI-TUCSON-KM8JCCAE3PU174232",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-HYUNDAI-TUCSON-KM8JCCAE3PU174232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -300,14 +356,17 @@
       "odometer_km": 38811,
       "year": 2023,
       "make": "HYUNDAI",
-      "model": "TUCSON GL",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 JEEP GRAND CHEROKEE LIMITED",
       "vin": "1C4RJHBG3PC526340",
       "stock": "26-431A",
       "color": "Diamond Black",
+      "trim": "IMITED",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/3a52d59c6277.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-JEEP-GRAND CHEROKEE-1C4RJHBG3PC526340",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-JEEP-GRAND CHEROKEE-1C4RJHBG3PC526340?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -315,14 +374,17 @@
       "odometer_km": 36241,
       "year": 2023,
       "make": "JEEP",
-      "model": "GRAND CHEROKEE LIMITED",
-      "condition": "used"
+      "model": "Grand Cherokee L",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 JEEP GRAND CHEROKEE LIMITED",
       "vin": "1C4RJHBG3PC526340",
       "stock": "26-431A",
       "color": "Diamond Black",
+      "trim": "IMITED",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/3a52d59c6277.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-JEEP-GRAND CHEROKEE-1C4RJHBG3PC526340",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-JEEP-GRAND CHEROKEE-1C4RJHBG3PC526340?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -330,14 +392,17 @@
       "odometer_km": 36241,
       "year": 2023,
       "make": "JEEP",
-      "model": "GRAND CHEROKEE LIMITED",
-      "condition": "new"
+      "model": "Grand Cherokee L",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 KIA SPORTAGE EX",
       "vin": "KNDPVCAF5P7092180",
       "stock": "26-400A",
       "color": "Vesta Blue Metallic",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/c37dbd488e4d.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-KIA-SPORTAGE-KNDPVCAF5P7092180",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-KIA-SPORTAGE-KNDPVCAF5P7092180?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -345,14 +410,17 @@
       "odometer_km": 37763,
       "year": 2023,
       "make": "KIA",
-      "model": "SPORTAGE EX",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 KIA SPORTAGE EX",
       "vin": "KNDPVCAF5P7092180",
       "stock": "26-400A",
       "color": "Vesta Blue Metallic",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/c37dbd488e4d.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-KIA-SPORTAGE-KNDPVCAF5P7092180",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-KIA-SPORTAGE-KNDPVCAF5P7092180?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -360,14 +428,17 @@
       "odometer_km": 37763,
       "year": 2023,
       "make": "KIA",
-      "model": "SPORTAGE EX",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 BIG HORN",
       "vin": "1C6SRFMT5PN686031",
       "stock": "PO2954",
       "color": "Grey",
+      "trim": "BIG HORN",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/50abb1e9f70e.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-RAM-1500-1C6SRFMT5PN686031",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-RAM-1500-1C6SRFMT5PN686031?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -375,14 +446,17 @@
       "odometer_km": 67115,
       "year": 2023,
       "make": "RAM",
-      "model": "1500 BIG HORN",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 BIG HORN",
       "vin": "1C6SRFMT5PN686031",
       "stock": "PO2954",
       "color": "Grey",
+      "trim": "BIG HORN",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/50abb1e9f70e.html",
       "source_url": "https://inlandautocentre.com/Inventory/2023-RAM-1500-1C6SRFMT5PN686031",
       "dealer_url": "https://inlandautocentre.com/Inventory/2023-RAM-1500-1C6SRFMT5PN686031?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -390,14 +464,17 @@
       "odometer_km": 67115,
       "year": 2023,
       "make": "RAM",
-      "model": "1500 BIG HORN",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 DODGE DURANGO GT PLUS",
       "vin": "1C4RDJDG4RC161777",
       "stock": "PO2967",
       "color": "Triple Nickel                 ",
+      "trim": "GT PLUS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/2faf80399868.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-DODGE-DURANGO-1C4RDJDG4RC161777",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-DODGE-DURANGO-1C4RDJDG4RC161777?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -405,14 +482,17 @@
       "odometer_km": 39921,
       "year": 2024,
       "make": "DODGE",
-      "model": "DURANGO GT PLUS",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 DODGE DURANGO GT PLUS",
       "vin": "1C4RDJDG4RC161780",
       "stock": "PO2966",
       "color": "White Knuckle Clear Coat",
+      "trim": "GT PLUS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/5b17a2374115.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-DODGE-DURANGO-1C4RDJDG4RC161780",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-DODGE-DURANGO-1C4RDJDG4RC161780?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -420,14 +500,17 @@
       "odometer_km": 43639,
       "year": 2024,
       "make": "DODGE",
-      "model": "DURANGO GT PLUS",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 DODGE HORNET R/T",
       "vin": "ZACPDFCW8R3A39066",
       "stock": "26-348A",
       "color": "Blue",
+      "trim": "R/T",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/2deaf3fd0e46.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-DODGE-HORNET-ZACPDFCW8R3A39066",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-DODGE-HORNET-ZACPDFCW8R3A39066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -435,14 +518,17 @@
       "odometer_km": 17018,
       "year": 2024,
       "make": "DODGE",
-      "model": "HORNET R/T",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 DODGE DURANGO GT PLUS",
       "vin": "1C4RDJDG4RC161777",
       "stock": "PO2967",
       "color": "Triple Nickel                 ",
+      "trim": "GT PLUS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/2faf80399868.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-DODGE-DURANGO-1C4RDJDG4RC161777",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-DODGE-DURANGO-1C4RDJDG4RC161777?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -450,14 +536,17 @@
       "odometer_km": 39921,
       "year": 2024,
       "make": "DODGE",
-      "model": "DURANGO GT PLUS",
-      "condition": "new"
+      "model": "Durango",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 DODGE DURANGO GT PLUS",
       "vin": "1C4RDJDG4RC161780",
       "stock": "PO2966",
       "color": "White Knuckle Clear Coat",
+      "trim": "GT PLUS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/5b17a2374115.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-DODGE-DURANGO-1C4RDJDG4RC161780",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-DODGE-DURANGO-1C4RDJDG4RC161780?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -465,14 +554,17 @@
       "odometer_km": 43639,
       "year": 2024,
       "make": "DODGE",
-      "model": "DURANGO GT PLUS",
-      "condition": "new"
+      "model": "Durango",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 DODGE HORNET R/T",
       "vin": "ZACPDFCW8R3A39066",
       "stock": "26-348A",
       "color": "Blue",
+      "trim": "R/T",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/2deaf3fd0e46.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-DODGE-HORNET-ZACPDFCW8R3A39066",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-DODGE-HORNET-ZACPDFCW8R3A39066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -480,14 +572,17 @@
       "odometer_km": 17018,
       "year": 2024,
       "make": "DODGE",
-      "model": "HORNET R/T",
-      "condition": "new"
+      "model": "Hornet",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 FORD EDGE ST LINE",
       "vin": "2FMPK4J94RBA59234",
       "stock": "26-362A",
       "color": "Silver Metallic",
+      "trim": "ST LINE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/d588ab9c1295.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-FORD-EDGE-2FMPK4J94RBA59234",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-FORD-EDGE-2FMPK4J94RBA59234?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +590,17 @@
       "odometer_km": 63355,
       "year": 2024,
       "make": "FORD",
-      "model": "EDGE ST LINE",
-      "condition": "used"
+      "model": "Edge",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 FORD EDGE ST LINE",
       "vin": "2FMPK4J94RBA59234",
       "stock": "26-362A",
       "color": "Silver Metallic",
+      "trim": "ST LINE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/d588ab9c1295.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-FORD-EDGE-2FMPK4J94RBA59234",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-FORD-EDGE-2FMPK4J94RBA59234?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -510,14 +608,17 @@
       "odometer_km": 63355,
       "year": 2024,
       "make": "FORD",
-      "model": "EDGE ST LINE",
-      "condition": "new"
+      "model": "Edge",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 GMC TERRAIN SLE",
       "vin": "3GKALTEG3RL336684",
       "stock": "PO2992",
       "color": "Ebony Twilight Metallic",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/a1b58e06fb1c.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG3RL336684",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG3RL336684?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -525,14 +626,17 @@
       "odometer_km": 80369,
       "year": 2024,
       "make": "GMC",
-      "model": "TERRAIN SLE",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 GMC TERRAIN SLE",
       "vin": "3GKALTEG7RL331150",
       "stock": "PO2991",
       "color": "Sterling Metallic",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/fbc9fe17be64.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG7RL331150",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG7RL331150?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -540,14 +644,17 @@
       "odometer_km": 70133,
       "year": 2024,
       "make": "GMC",
-      "model": "TERRAIN SLE",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 GMC TERRAIN SLE",
       "vin": "3GKALTEG9RL288110",
       "stock": "PO2990",
       "color": "Summit White",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/40efb9385c1c.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG9RL288110",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG9RL288110?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -555,14 +662,17 @@
       "odometer_km": 79767,
       "year": 2024,
       "make": "GMC",
-      "model": "TERRAIN SLE",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 GMC TERRAIN SLE",
       "vin": "3GKALTEG3RL336684",
       "stock": "PO2992",
       "color": "Ebony Twilight Metallic",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/a1b58e06fb1c.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG3RL336684",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG3RL336684?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -570,14 +680,17 @@
       "odometer_km": 80369,
       "year": 2024,
       "make": "GMC",
-      "model": "TERRAIN SLE",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 GMC TERRAIN SLE",
       "vin": "3GKALTEG7RL331150",
       "stock": "PO2991",
       "color": "Sterling Metallic",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/fbc9fe17be64.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG7RL331150",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG7RL331150?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -585,14 +698,17 @@
       "odometer_km": 70133,
       "year": 2024,
       "make": "GMC",
-      "model": "TERRAIN SLE",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 GMC TERRAIN SLE",
       "vin": "3GKALTEG9RL288110",
       "stock": "PO2990",
       "color": "Summit White",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/40efb9385c1c.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG9RL288110",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-GMC-TERRAIN-3GKALTEG9RL288110?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -600,14 +716,17 @@
       "odometer_km": 79767,
       "year": 2024,
       "make": "GMC",
-      "model": "TERRAIN SLE",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 JEEP COMPASS North",
       "vin": "3C4NJDBN1RT161041",
       "stock": "26-251A2",
       "color": "Pearl",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/7f77a4ef6de5.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-JEEP-COMPASS-3C4NJDBN1RT161041",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-JEEP-COMPASS-3C4NJDBN1RT161041?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -615,14 +734,17 @@
       "odometer_km": 28034,
       "year": 2024,
       "make": "JEEP",
-      "model": "COMPASS North",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 JEEP COMPASS North",
       "vin": "3C4NJDBN1RT161041",
       "stock": "26-251A2",
       "color": "Pearl",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/7f77a4ef6de5.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-JEEP-COMPASS-3C4NJDBN1RT161041",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-JEEP-COMPASS-3C4NJDBN1RT161041?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -630,40 +752,49 @@
       "odometer_km": 28034,
       "year": 2024,
       "make": "JEEP",
-      "model": "COMPASS North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 KIA SPORTAGE LX",
       "vin": "KNDPUCDF9R7297714",
       "stock": "PO2986",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/5c593a725d99.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-KIA-SPORTAGE-KNDPUCDF9R7297714",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-KIA-SPORTAGE-KNDPUCDF9R7297714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:08:54",
       "year": 2024,
       "make": "KIA",
-      "model": "SPORTAGE LX",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 KIA SPORTAGE LX",
       "vin": "KNDPUCDF9R7297714",
       "stock": "PO2986",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/5c593a725d99.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-KIA-SPORTAGE-KNDPUCDF9R7297714",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-KIA-SPORTAGE-KNDPUCDF9R7297714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:11:37",
       "year": 2024,
       "make": "KIA",
-      "model": "SPORTAGE LX",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 MAZDA CX-5 GS",
       "vin": "JM3KFBCL0R0524231",
       "stock": "PO2962",
       "color": "Jet Black Mica",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/5cf2008dec1b.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-MAZDA-CX-5-JM3KFBCL0R0524231",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-MAZDA-CX-5-JM3KFBCL0R0524231?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -671,14 +802,17 @@
       "odometer_km": 52085,
       "year": 2024,
       "make": "MAZDA",
-      "model": "CX-5 GS",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 MAZDA CX-5 GS",
       "vin": "JM3KFBCL0R0524231",
       "stock": "PO2962",
       "color": "Jet Black Mica",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/5cf2008dec1b.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-MAZDA-CX-5-JM3KFBCL0R0524231",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-MAZDA-CX-5-JM3KFBCL0R0524231?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -686,14 +820,17 @@
       "odometer_km": 52085,
       "year": 2024,
       "make": "MAZDA",
-      "model": "CX-5 GS",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 2500 Big Horn",
       "vin": "3C6UR5DL2RG230308",
       "stock": "26-429A",
       "color": "Diamond Black",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/fb3f9d87db01.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-RAM-2500-3C6UR5DL2RG230308",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-RAM-2500-3C6UR5DL2RG230308?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -701,14 +838,17 @@
       "odometer_km": 69436,
       "year": 2024,
       "make": "RAM",
-      "model": "2500 Big Horn",
-      "condition": "used"
+      "model": "2500",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 2500 Big Horn",
       "vin": "3C6UR5DL2RG230308",
       "stock": "26-429A",
       "color": "Diamond Black",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/fb3f9d87db01.html",
       "source_url": "https://inlandautocentre.com/Inventory/2024-RAM-2500-3C6UR5DL2RG230308",
       "dealer_url": "https://inlandautocentre.com/Inventory/2024-RAM-2500-3C6UR5DL2RG230308?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +856,17 @@
       "odometer_km": 69436,
       "year": 2024,
       "make": "RAM",
-      "model": "2500 Big Horn",
-      "condition": "new"
+      "model": "2500",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP CHEROKEE LAREDO",
       "vin": "3C4PJMB22TT257928",
       "stock": "26-377",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "LAREDO",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/6a329380a57e.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB22TT257928",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB22TT257928?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -731,14 +874,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "JEEP",
-      "model": "CHEROKEE LAREDO",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP CHEROKEE Limited",
       "vin": "3C4PJMB23TT262734",
       "stock": "26-374",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/a19aef03a172.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB23TT262734",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB23TT262734?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -746,14 +892,17 @@
       "odometer_km": 54,
       "year": 2026,
       "make": "JEEP",
-      "model": "CHEROKEE Limited",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP CHEROKEE LIMITED",
       "vin": "3C4PJMB26TT191027",
       "stock": "26-297",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/d05af351b96b.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB26TT191027",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB26TT191027?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -761,14 +910,17 @@
       "odometer_km": 779,
       "year": 2026,
       "make": "JEEP",
-      "model": "CHEROKEE LIMITED",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP CHEROKEE LAREDO",
       "vin": "3C4PJMB28TT238204",
       "stock": "26-323",
       "color": "STING-GRAY CLEAR COAT",
+      "trim": "LAREDO",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/a944df35a929.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB28TT238204",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB28TT238204?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -776,14 +928,17 @@
       "odometer_km": 462,
       "year": 2026,
       "make": "JEEP",
-      "model": "CHEROKEE LAREDO",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Sport",
       "vin": "3C4NJDAN9TT198881",
       "stock": "26-278",
       "color": "Hydro Blue Pearl Coat         ",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/f5da34c8ce79.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDAN9TT198881",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDAN9TT198881?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -791,28 +946,34 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Sport",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Altitude",
       "vin": "3C4NJDBN0TT208907",
       "stock": "26-350",
       "color": "Bright White Clear Coat       ",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/13ab82fc65f8.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN0TT208907",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN0TT208907?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:09:35",
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Altitude",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS North",
       "vin": "3C4NJDBN2TT198882",
       "stock": "26-279",
       "color": "Joose                         ",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/ec10b2580044.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN2TT198882",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN2TT198882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -820,14 +981,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS North",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Altitude",
       "vin": "3C4NJDBN3TT226107",
       "stock": "26-307",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/60368c481735.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN3TT226107",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN3TT226107?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +999,17 @@
       "odometer_km": 204,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Altitude",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS NORTH",
       "vin": "3C4NJDBN6TT287645",
       "stock": "26-401",
       "color": "Silver Zynith Metallic Clear-C",
+      "trim": "NORTH",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/423788617f55.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN6TT287645",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN6TT287645?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -850,14 +1017,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS NORTH",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Trailhawk",
       "vin": "3C4NJDDN1TT288330",
       "stock": "26-383",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/7f0401e9a128.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDDN1TT288330",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDDN1TT288330?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -865,14 +1035,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Trailhawk",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Trailhawk",
       "vin": "3C4NJDDN6TT289313",
       "stock": "26-393",
       "color": "Silver Zynith Metallic Clear-C",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/daf08976a80b.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDDN6TT289313",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDDN6TT289313?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -880,14 +1053,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Trailhawk",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP CHEROKEE LAREDO",
       "vin": "3C4PJMB22TT257928",
       "stock": "26-377",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "LAREDO",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/6a329380a57e.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB22TT257928",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB22TT257928?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -895,14 +1071,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "JEEP",
-      "model": "CHEROKEE LAREDO",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP CHEROKEE Limited",
       "vin": "3C4PJMB23TT262734",
       "stock": "26-374",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/a19aef03a172.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB23TT262734",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB23TT262734?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -910,14 +1089,17 @@
       "odometer_km": 54,
       "year": 2026,
       "make": "JEEP",
-      "model": "CHEROKEE Limited",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP CHEROKEE LIMITED",
       "vin": "3C4PJMB26TT191027",
       "stock": "26-297",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/d05af351b96b.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB26TT191027",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB26TT191027?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -925,14 +1107,17 @@
       "odometer_km": 779,
       "year": 2026,
       "make": "JEEP",
-      "model": "CHEROKEE LIMITED",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP CHEROKEE LAREDO",
       "vin": "3C4PJMB28TT238204",
       "stock": "26-323",
       "color": "STING-GRAY CLEAR COAT",
+      "trim": "LAREDO",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/a944df35a929.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB28TT238204",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-CHEROKEE-3C4PJMB28TT238204?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -940,14 +1125,17 @@
       "odometer_km": 462,
       "year": 2026,
       "make": "JEEP",
-      "model": "CHEROKEE LAREDO",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Sport",
       "vin": "3C4NJDAN9TT198881",
       "stock": "26-278",
       "color": "Hydro Blue Pearl Coat         ",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/f5da34c8ce79.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDAN9TT198881",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDAN9TT198881?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -955,28 +1143,34 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Sport",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Altitude",
       "vin": "3C4NJDBN0TT208907",
       "stock": "26-350",
       "color": "Bright White Clear Coat       ",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/13ab82fc65f8.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN0TT208907",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN0TT208907?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:12:18",
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS North",
       "vin": "3C4NJDBN2TT198882",
       "stock": "26-279",
       "color": "Joose                         ",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/ec10b2580044.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN2TT198882",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN2TT198882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -984,14 +1178,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS North",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Altitude",
       "vin": "3C4NJDBN3TT226107",
       "stock": "26-307",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/60368c481735.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN3TT226107",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN3TT226107?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -999,14 +1196,17 @@
       "odometer_km": 204,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Altitude",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS NORTH",
       "vin": "3C4NJDBN6TT287645",
       "stock": "26-401",
       "color": "Silver Zynith Metallic Clear-C",
+      "trim": "NORTH",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/423788617f55.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN6TT287645",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDBN6TT287645?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1014,14 +1214,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS NORTH",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Trailhawk",
       "vin": "3C4NJDDN1TT288330",
       "stock": "26-383",
       "color": "Diamond Black Crystal P/C     ",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/7f0401e9a128.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDDN1TT288330",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDDN1TT288330?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1029,14 +1232,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Trailhawk",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     },
     {
       "name": "2026 JEEP COMPASS Trailhawk",
       "vin": "3C4NJDDN6TT289313",
       "stock": "26-393",
       "color": "Silver Zynith Metallic Clear-C",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/daf08976a80b.html",
       "source_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDDN6TT289313",
       "dealer_url": "https://inlandautocentre.com/Inventory/2026-JEEP-COMPASS-3C4NJDDN6TT289313?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1044,8 +1250,10 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "JEEP",
-      "model": "COMPASS Trailhawk",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Dawson Creek",
+      "province": "BC"
     }
   ]
 }
