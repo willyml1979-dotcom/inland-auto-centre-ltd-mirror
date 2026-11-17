@@ -1,18 +1,20 @@
 {
   "dealership": "Inland Auto Centre Ltd",
-  "generated_at": "2026-10-26T04:03:56",
+  "generated_at": "2026-11-16T21:56:24",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2014 GMC YUKON SLE",
+      "name": "2014 GMC YUKONInspected Not Perfected / SLE / 5.3L V8 / 9 Passenger / Leather / Heated Seats / Remote Start",
       "vin": "1GKS2AE02ER119483",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/964a04ba5a2a.html",
       "year": 2014,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "price": 12999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2014 GMC YUKON SLE",
@@ -24,13 +26,37 @@
       "condition": "new"
     },
     {
-      "name": "2019 JEEP CHEROKEE TRAILHAWK ELITE",
+      "name": "2016 DODGE GRAND CARAVANSE / 3.6L V6 / Inspected, Not Perfected",
+      "vin": "2C4RDGBG4GR387473",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/4503bbbf7c85.html",
+      "year": 2016,
+      "make": "DODGE",
+      "model": "Grand Caravan",
+      "condition": "used",
+      "price": 9000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 RAM 3500Laramie Limited / 6.7L Cummins / Crew Cab / Leather / Premium Audio",
+      "vin": "3C63R3KL0JG158984",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/74ce346d492c.html",
+      "year": 2018,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used",
+      "price": 54993.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 JEEP CHEROKEETrailhawk L Plus / 2.0L Turbo / Panoramic Sunroof / Alpine Audio",
       "vin": "1C4PJMBN3KD443279",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/9a818f8ac2f9.html",
       "year": 2019,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "price": 20993.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 JEEP CHEROKEE TRAILHAWK ELITE",
@@ -44,29 +70,11 @@
     {
       "name": "2020 RAM 1500 REBEL",
       "vin": "1C6SRFLT3LN145409",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/3d383fddad6b.html",
-      "year": 2020,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used"
-    },
-    {
-      "name": "2020 RAM 1500 REBEL",
-      "vin": "1C6SRFLT3LN145409",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/3d383fddad6b.html",
       "year": 2020,
       "make": "RAM",
       "model": "1500",
       "condition": "new"
-    },
-    {
-      "name": "2021 FORD BRONCO SPORT BIG BEND",
-      "vin": "3FMCR9B60MRA90700",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/198f9d2a7b00.html",
-      "year": 2021,
-      "make": "FORD",
-      "model": "Bronco Sport",
-      "condition": "used"
     },
     {
       "name": "2021 FORD BRONCO SPORT BIG BEND",
@@ -80,15 +88,6 @@
     {
       "name": "2021 HYUNDAI KONA PREFERRED",
       "vin": "KM8K2CAA5MU656412",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/719daf8e1529.html",
-      "year": 2021,
-      "make": "HYUNDAI",
-      "model": "Kona",
-      "condition": "used"
-    },
-    {
-      "name": "2021 HYUNDAI KONA PREFERRED",
-      "vin": "KM8K2CAA5MU656412",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/719daf8e1529.html",
       "year": 2021,
       "make": "HYUNDAI",
@@ -96,13 +95,26 @@
       "condition": "new"
     },
     {
-      "name": "2021 JEEP GRAND CHEROKEE LIMITED X",
+      "name": "2021 JEEP GRAND CHEROKEELimited X / 3.6L V6 / Panoramic Sunroof / ProTech Group / 20-inch Wheels",
       "vin": "1C4RJFBG7MC705156",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/396940d289ae.html",
       "year": 2021,
       "make": "JEEP",
-      "model": "Grand Cherokee L",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 38888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 JEEP GRAND CHEROKEEGRAND CHEROKEE LIMITED",
+      "vin": "1C4RJKBG8M8102860",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/6b0627904f6c.html",
+      "year": 2021,
+      "make": "JEEP",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 31400.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 JEEP GRAND CHEROKEE LIMITED X",
@@ -116,15 +128,6 @@
     {
       "name": "2021 MITSUBISHI RVR SE",
       "vin": "JA4AJVAW8MU607144",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/076046f540fe.html",
-      "year": 2021,
-      "make": "MITSUBISHI",
-      "model": "RVR",
-      "condition": "used"
-    },
-    {
-      "name": "2021 MITSUBISHI RVR SE",
-      "vin": "JA4AJVAW8MU607144",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/076046f540fe.html",
       "year": 2021,
       "make": "MITSUBISHI",
@@ -132,13 +135,15 @@
       "condition": "new"
     },
     {
-      "name": "2021 RAM 1500 BIG HORN",
+      "name": "2021 RAM 1500Big Horn / 5.7L HEMI / Crew Cab / Alpine Audio / Bed Utility Group",
       "vin": "1C6SRFFT5MN568084",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/d1686f185a05.html",
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 41749.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 RAM 1500 BIG HORN",
@@ -152,29 +157,11 @@
     {
       "name": "2022 CADILLAC XT5 PREMIUM LUXURY AWD",
       "vin": "1GYKNDRS5NZ138071",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/f56c1d33bbc8.html",
-      "year": 2022,
-      "make": "CADILLAC",
-      "model": "XT5",
-      "condition": "used"
-    },
-    {
-      "name": "2022 CADILLAC XT5 PREMIUM LUXURY AWD",
-      "vin": "1GYKNDRS5NZ138071",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/f56c1d33bbc8.html",
       "year": 2022,
       "make": "CADILLAC",
       "model": "XT5",
       "condition": "new"
-    },
-    {
-      "name": "2022 DODGE DURANGO DURANGO R/T",
-      "vin": "1C4SDJCT9NC191075",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/e12190ec3582.html",
-      "year": 2022,
-      "make": "DODGE",
-      "model": "Durango",
-      "condition": "used"
     },
     {
       "name": "2022 DODGE DURANGO DURANGO R/T",
@@ -186,13 +173,26 @@
       "condition": "new"
     },
     {
-      "name": "2022 KIA SELTOS LX",
+      "name": "2022 FORD EXPLORERPLATINUM",
+      "vin": "1FM5K8HCXNGA80172",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/f995f4d08fed.html",
+      "year": 2022,
+      "make": "FORD",
+      "model": "Explorer",
+      "condition": "used",
+      "price": 35550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 KIA SELTOSEX / 2.5L I-4 / Heated Seats / Remote Start / Wireless CarPlay",
       "vin": "KNDEPCAA9N7297214",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/06e70979f5e5.html",
       "year": 2022,
       "make": "KIA",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "price": 21999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2022 KIA SELTOS LX",
@@ -202,6 +202,28 @@
       "make": "KIA",
       "model": "Seltos",
       "condition": "new"
+    },
+    {
+      "name": "2022 RAM 1500 CLASSICExpress / 5.7L HEMI V8 / Crew Cab / Night Edition / Heated Seats",
+      "vin": "3C6RR7KT3NG428555",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/7113db979601.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "condition": "used",
+      "price": 34800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 RAM 1500Limited (RED) Edition / 5.7L HEMI V8 / Crew Cab / Panoramic Sunroof / harman/kardon",
+      "vin": "1C6SRFHTXNN220084",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/4774f7417140.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 58493.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 DODGE DURANGO R/T PLUS",
@@ -222,13 +244,15 @@
       "condition": "new"
     },
     {
-      "name": "2023 HYUNDAI TUCSON GL",
+      "name": "2023 HYUNDAI TUCSONN Line / 2.5L I-4 / Panoramic Sunroof / Premium Audio / Navigation",
       "vin": "KM8JCCAE3PU174232",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/70480e8ac41f.html",
       "year": 2023,
       "make": "HYUNDAI",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "price": 28300.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 HYUNDAI TUCSON GL",
@@ -242,15 +266,6 @@
     {
       "name": "2023 JEEP GRAND CHEROKEE LIMITED",
       "vin": "1C4RJHBG3PC526340",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/3a52d59c6277.html",
-      "year": 2023,
-      "make": "JEEP",
-      "model": "Grand Cherokee L",
-      "condition": "used"
-    },
-    {
-      "name": "2023 JEEP GRAND CHEROKEE LIMITED",
-      "vin": "1C4RJHBG3PC526340",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/3a52d59c6277.html",
       "year": 2023,
       "make": "JEEP",
@@ -258,13 +273,15 @@
       "condition": "new"
     },
     {
-      "name": "2023 KIA SPORTAGE EX",
+      "name": "2023 KIA SPORTAGEEX / 2.5L I-4 / Sunroof / Navigation / Wireless Charging / Heated Seats",
       "vin": "KNDPVCAF5P7092180",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/c37dbd488e4d.html",
       "year": 2023,
       "make": "KIA",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "price": 28400.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 KIA SPORTAGE EX",
@@ -276,13 +293,15 @@
       "condition": "new"
     },
     {
-      "name": "2023 RAM 1500 CLASSIC EXPRESS",
+      "name": "2023 RAM 1500 CLASSICExpress / 5.7L HEMI V8 / Crew Cab / Night Edition / Heated Seats",
       "vin": "3C6RR7KTXPG670410",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/6f4a727b361d.html",
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "price": 38493.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 RAM 1500 CLASSIC EXPRESS",
@@ -303,13 +322,15 @@
       "condition": "used"
     },
     {
-      "name": "2024 DODGE DURANGO GT PLUS",
+      "name": "2024 DODGE DURANGOGT Plus / 3.6L V6 / Nappa Leather / Ventilated Seats / 10.1inch NAV",
       "vin": "1C4RDJDG4RC161780",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/5b17a2374115.html",
       "year": 2024,
       "make": "DODGE",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "price": 47493.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 DODGE HORNET R/T",
@@ -364,6 +385,17 @@
       "make": "FORD",
       "model": "Edge",
       "condition": "new"
+    },
+    {
+      "name": "2024 GMC SIERRA 1500SLT / 3.0L Duramax Diesel / Crew Cab / Sunroof / X31 Off-Road",
+      "vin": "1GTUUDE89RZ312368",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/9af1c28db11e.html",
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 58400.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 GMC TERRAIN SLE",
@@ -429,6 +461,17 @@
       "condition": "used"
     },
     {
+      "name": "2024 JEEP GRAND CHEROKEEOverland / 3.6L V6 / Panoramic Sunroof / Passenger Screen / Air Suspension",
+      "vin": "1C4RJHDG4R8612842",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/57dafea2abe2.html",
+      "year": 2024,
+      "make": "JEEP",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 55994.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 JEEP COMPASS NORTH",
       "vin": "3C4NJDBN1RT161041",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/7f77a4ef6de5.html",
@@ -474,13 +517,15 @@
       "condition": "new"
     },
     {
-      "name": "2025 FORD BRONCO SPORT BIG BEND",
+      "name": "2025 FORD BRONCO SPORTBig Bend / 1.5L EcoBoost / 12-inch Touchscreen / Heated Seats",
       "vin": "3FMCR9BN4SRE33268",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/492205644e6f.html",
       "year": 2025,
       "make": "FORD",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "price": 33880.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 FORD BRONCO SPORT BIG BEND",
@@ -492,6 +537,17 @@
       "condition": "new"
     },
     {
+      "name": "2025 NISSAN ROGUEMidnight Edition / 1.5L Turbo / Heated Seats / Heated Steering Wheel",
+      "vin": "JN8BT3BB3SW163665",
+      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/6a2ddde4d908.html",
+      "year": 2025,
+      "make": "NISSAN",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 31493.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 JEEP CHEROKEE LIMITED",
       "vin": "3C4PJMB23TT262734",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/a19aef03a172.html",
@@ -501,67 +557,59 @@
       "condition": "used"
     },
     {
-      "name": "2026 JEEP CHEROKEE LIMITED",
-      "vin": "3C4PJMB26TT191027",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/d05af351b96b.html",
-      "year": 2026,
-      "make": "JEEP",
-      "model": "Cherokee",
-      "condition": "used"
-    },
-    {
-      "name": "2026 JEEP COMPASS SPORT",
+      "name": "2026 JEEP COMPASSSPORT / 2.0L Turbo / Heated Seats / 8.4inch Uconnect",
       "vin": "3C4NJDAN9TT198881",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/f5da34c8ce79.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 34990.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS NORTH",
+      "name": "2026 JEEP COMPASSNORTH / Altitude Edition / 10.1 Uconnect / Heated Seats / Remote Start",
       "vin": "3C4NJDBN0TT208907",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/13ab82fc65f8.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 39740.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS NORTH",
+      "name": "2026 JEEP COMPASSNORTH / Altitude Edition / 10.1-inch Uconnect / Heated Seats / Remote Start",
       "vin": "3C4NJDBN3TT226107",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/60368c481735.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 41185.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS NORTH",
+      "name": "2026 JEEP COMPASSNORTH ALTITUDE / 2.0L Turbo / 10.1-inch NAV / Foot-Activated Liftgate",
       "vin": "3C4NJDBN6TT287645",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/423788617f55.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 44180.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS TRAILHAWK",
+      "name": "2026 JEEP COMPASSTRAILHAWK / Tow Group / Adaptive Cruise / Heated Seats / Skid Plates",
       "vin": "3C4NJDDN1TT288330",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/7f0401e9a128.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
-    },
-    {
-      "name": "2026 JEEP COMPASS TRAILHAWK",
-      "vin": "3C4NJDDN6TT289313",
-      "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/used/daf08976a80b.html",
-      "year": 2026,
-      "make": "JEEP",
-      "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 44285.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP CHEROKEE LIMITED",
