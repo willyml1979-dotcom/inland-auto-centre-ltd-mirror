@@ -1,6 +1,6 @@
 {
   "dealership": "Inland Auto Centre Ltd",
-  "generated_at": "2026-11-17T19:44:04",
+  "generated_at": "2026-11-17T19:52:59",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -259,13 +259,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 DODGE DURANGO R/T PLUS",
+      "name": "2023 DODGE DURANGOR/T Plus / 5.7L HEMI / Blacktop / Harman Kardon Audio / Ventilated Seats",
       "vin": "1C4SDJCT8PC601447",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/fe42ba255822.html",
       "year": 2023,
       "make": "DODGE",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "price": 48240.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 HYUNDAI TUCSONN Line / 2.5L I-4 / Panoramic Sunroof / Premium Audio / Navigation",
@@ -367,13 +369,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 DODGE DURANGO GT PLUS",
+      "name": "2024 DODGE DURANGOGT Plus / 3.6L V6 / Nappa Leather / Ventilated Seats / 10.1inch NAV",
       "vin": "1C4RDJDG4RC161777",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/2faf80399868.html",
       "year": 2024,
       "make": "DODGE",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "price": 44700.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 DODGE DURANGOGT Plus / 3.6L V6 / Nappa Leather / Ventilated Seats / 10.1inch NAV",
@@ -387,13 +391,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 DODGE HORNET R/T",
+      "name": "2024 DODGE HORNETR/T / 1.3L Turbo PHEV / Blacktop and Track Pack / Dual Mode Suspension",
       "vin": "ZACPDFCW8R3A39066",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/2deaf3fd0e46.html",
       "year": 2024,
       "make": "DODGE",
       "model": "Hornet",
-      "condition": "new"
+      "condition": "new",
+      "price": 26300.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 FORD EDGEST-Line / 2.0L EcoBoost / Panoramic Roof / 12inch Screen / Heated Seats",
@@ -407,13 +413,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 FORD EDGE ST LINE",
+      "name": "2024 FORD EDGEST-Line / 2.0L EcoBoost / Panoramic Roof / 12inch Screen / Heated Seats",
       "vin": "2FMPK4J94RBA59234",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/d588ab9c1295.html",
       "year": 2024,
       "make": "FORD",
       "model": "Edge",
-      "condition": "new"
+      "condition": "new",
+      "price": 32600.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 GMC SIERRA 1500SLT / 3.0L Duramax Diesel / Crew Cab / Sunroof / X31 Off-Road",
@@ -471,31 +479,37 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC TERRAIN SLE",
+      "name": "2024 GMC TERRAINSLE / 1.5L Turbo / Heated Seats / Remote Start / Apple CarPlay",
       "vin": "3GKALTEG3RL336684",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/a1b58e06fb1c.html",
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "price": 29600.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC TERRAIN SLE",
+      "name": "2024 GMC TERRAINSLE / 1.5L Turbo / Heated Seats / Remote Start / Apple CarPlay",
       "vin": "3GKALTEG7RL331150",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/fbc9fe17be64.html",
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "price": 29999.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC TERRAIN SLE",
+      "name": "2024 GMC TERRAINSLE / 1.5L Turbo / Heated Seats / Remote Start / Apple CarPlay",
       "vin": "3GKALTEG9RL288110",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/40efb9385c1c.html",
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "price": 28900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 JEEP COMPASSNorth / 2.0L Turbo / 10.1-inch Display / Heated Seats / Heated Wheel",
@@ -520,13 +534,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 JEEP COMPASS NORTH",
+      "name": "2024 JEEP COMPASSNorth / 2.0L Turbo / 10.1-inch Display / Heated Seats / Heated Wheel",
       "vin": "3C4NJDBN1RT161041",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/7f77a4ef6de5.html",
       "year": 2024,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "price": 28800.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 JEEP GRAND CHEROKEEOverland / 3.6L V6 / Panoramic Sunroof / Passenger Screen / Air Suspension",
@@ -551,13 +567,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 KIA SPORTAGE LX",
+      "name": "2024 KIA SPORTAGELX / 2.5L Turbo / Heated Seats / Apple CarPlay / 8-inch Touchscreen",
       "vin": "KNDPUCDF9R7297714",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/5c593a725d99.html",
       "year": 2024,
       "make": "KIA",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "price": 28900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 MAZDA CX-5GS / 2.5L I-4 / Leather / Navigation / Adaptive Cruise / Heated Wheel",
@@ -571,13 +589,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 MAZDA CX-5 GS",
+      "name": "2024 MAZDA CX-5GS / 2.5L I-4 / Leather / Navigation / Adaptive Cruise / Heated Wheel",
       "vin": "JM3KFBCL0R0524231",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/5cf2008dec1b.html",
       "year": 2024,
       "make": "MAZDA",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "price": 31700.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 FORD BRONCO SPORTBig Bend / 1.5L EcoBoost / 12-inch Touchscreen / Heated Seats",
@@ -690,13 +710,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP CHEROKEE LIMITED",
+      "name": "2026 JEEP CHEROKEELIMITED / 1.6L Turbo Hybrid / 12.3-inch Display / Leatherette Seats",
       "vin": "3C4PJMB23TT262734",
       "url": "https://willyml1979-dotcom.github.io/inland-auto-centre-ltd-mirror/new/a19aef03a172.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "price": 54380.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP COMPASSSPORT / 2.0L Turbo / Heated Seats / 8.4inch Uconnect",
